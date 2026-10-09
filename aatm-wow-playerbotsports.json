@@ -1,0 +1,16 @@
+[
+  {
+    "Protocol": "TCP",
+    "Port": 21200,
+    "Ref": "AuthPort",
+    "Name": "WoW Authentication",
+    "Description": "AATM host-side authentication port for WoW 3.3.5a clients."
+  },
+  {
+    "Protocol": "TCP",
+    "Port": 21201,
+    "Ref": "WorldPort",
+    "Name": "WoW World",
+    "Description": "AATM host-side world/game port for the AzerothCore realm."
+  }
+]
